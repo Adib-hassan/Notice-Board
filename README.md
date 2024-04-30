@@ -1,3 +1,3 @@
 # Notice Board
 
-This is IoT based app for my university project which displays text on the display board sent from the mobile app.
+This is an IoT-based app for my university project that displays text on the device sent from the mobile app.
