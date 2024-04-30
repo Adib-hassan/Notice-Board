@@ -1,0 +1,7 @@
+1) NodeMCU
+2) 16x02 LCD Display
+3) I2C Adapter for 16x02 LCD DIsplay
+4) Buzzer
+5) Mini Breadboard
+6) Jumper Wires
+7) PVC Boards
